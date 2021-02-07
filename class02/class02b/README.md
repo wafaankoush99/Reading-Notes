@@ -6,3 +6,5 @@
 By using **git remote -v**, you can view all the remote URLs next to their corresponding short names.
 
 ![](gitremote.png)
+
+[HomePage](Reading-Notes/README.md)

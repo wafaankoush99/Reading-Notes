@@ -1,11 +1,13 @@
 # STRUCTURE WEB PAGES WITH HTML
+
 ```
-## Understanding HTML and CSS can help anyone who works 
+Understanding HTML and CSS can help anyone who works 
 with the web; designers can create more attractive and
 usable sites.
 ```
 
 ***
+
 ### HTML CODE 
 
 ![](https://th.bing.com/th/id/Rf324613e5cee25a11f56bf5f8a4d9f7d?rik=hCKEUgm0QLxbEQ&riu=http%3a%2f%2ffreehtmldesigns.com%2fwp-content%2fuploads%2f2020%2f07%2fHTML-code.jpg&ehk=XfKZVsXXxiFt0JAbKTpuexIi3oTDjsBNO2MUkAC0m84%3d&risl=&pid=ImgRaw)
@@ -17,6 +19,7 @@ something about the information that sits between them.
 ### ATTRIBUTES
 
 ![](https://th.bing.com/th/id/Rf3169685c0ba8517d7539a85da8f20e2?rik=E0LOwkDp%2bJfVQw&riu=http%3a%2f%2fwww.turnwall.com%2fwp-content%2fuploads%2f2011%2f09%2fattribute-name-value-pair.gif%3fx98695&ehk=tNoTRtNuxvQzZwA9cBRWi4zo2u3JtBwKEKP1RAwbVXU%3d&risl=&pid=ImgRaw)
+
 Attributes provide additional information
 about the contents of an element. They appear
 on the opening tag of the element and are
@@ -27,15 +30,17 @@ separated by an equals sign.
 
 ![](https://codescracker.com/html/images/html-basic-tags.jpg)
 
-<body> Everything inside this element is shown inside the main browser window.
-<head> Contains information about the page.
-<title> Shown in the top of the browser, above where you usually type in the URL.
+`<body>` Everything inside this element is shown inside the main browser window.
+
+`<head>` Contains information about the page.
+
+`<title>` Shown in the top of the browser, above where you usually type in the URL.
 
 ***
 
 **NOTES**
 
-1. <div> elements are often used as containing elements to group together sections of a page.
+1. `<div>` elements are often used as containing elements to group together sections of a page.
 2. **Float property** moves content to the left or right
 of the page and can be used to create multi-column layouts. 
 3. Pages can be fixed width or liquid (stretchy) layouts.
@@ -57,4 +62,9 @@ are sent to the server.
 ***
 
 ![](https://www.livechatinc.com/wp-content/uploads/2017/06/emojis-in-marketing-campaigns@2x.png)
+
+[Previous Page](README.md) | [HomePage](Reading-Notes/README.md) 
+
+***
+
 *contact wafadirawe@gmail.com* 

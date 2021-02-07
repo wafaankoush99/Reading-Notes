@@ -38,7 +38,7 @@ Site navigation not only helps people find where they want to go, but also
 helps them understand what your site is about and how it is organized.
 
 
-[Next Page](README2.md) | [HomePage](Reading-Notes/README.md) 
+[Next Page](README2.md) | [HomePage](../README.md) 
 
 ***
 

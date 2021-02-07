@@ -7,4 +7,4 @@ By using **git remote -v**, you can view all the remote URLs next to their corre
 
 ![](gitremote.png)
 
-[HomePage](Reading-Notes/README.md)
+[HomePage](../../README.md)

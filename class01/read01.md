@@ -84,7 +84,7 @@ file.png, file.gif, file.jpg - an image.
 * Backslash ( \ ) is an escape charachter.
 [details](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-[HomePage](Reading-Notes/README.md) 
+[HomePage](../README.md) 
 
 ***
 *contact us* *wafadirawe@gmail.com*

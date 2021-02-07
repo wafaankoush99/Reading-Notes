@@ -37,7 +37,9 @@ the information you present.
 Site navigation not only helps people find where they want to go, but also
 helps them understand what your site is about and how it is organized.
 
-***
 
+Navigate To Page Two: [Page Two](README2.md)
+
+***
 
 *for inquiries wafadirawe@gmail.com* 

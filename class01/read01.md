@@ -39,7 +39,9 @@ https://www.ahirlabs.com/difference/ide-and-text-editor/
 ***
 ## THE COMMAND LINE!
 A command line, or terminal, is a text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
+
 ![](https://scontent.famm2-3.fna.fbcdn.net/v/t1.15752-9/146237967_1145707659181566_2648065885110025327_n.png?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_eui2=AeE_qnAsT8ptVpZlbWdSQ2fuR2jT5nmuOERHaNPmea44RGZs5pzYXkPXFSqsPXcgysdfKCbijif3YE4lbo3ubXvq&_nc_ohc=tfyETD7AkaAAX-Fpwsp&_nc_ht=scontent.famm2-3.fna&oh=0251ec0aaaace8018843e5214b4ffca8&oe=6045ACDA)
+
 * line 1 : typically command is always the first thing to type.
 * line 2-5 : are output from running the command.
 * line 6 : presents us with a prompt again.

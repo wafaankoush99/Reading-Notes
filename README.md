@@ -8,6 +8,7 @@ READS:
 3. read02b : [REVISIONS & THE CLOUDS](class02/class02b/README.md)
 4. read03 : [STRUCTURE WEB PAGES WITH HTML](class03/README.md)
 5. read04 : [PROGRAMMING WITH JAVASCRIPT](class04/README.md)
+6. read05 : [JAVASCRIPT & jQuery](class05/README.md)
 
 
 LABS:

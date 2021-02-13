@@ -63,7 +63,7 @@ are sent to the server.
 
 ![](https://www.livechatinc.com/wp-content/uploads/2017/06/emojis-in-marketing-campaigns@2x.png)
 
-[Previous Page](README.md) | [HomePage](../README.md) 
+[Previous Page](README.md) | [HomePage](https://wafaankoush99.github.io/Reading-Notes/READMEcode102.html) 
 
 ***
 

@@ -411,6 +411,9 @@ It should also contain a `<figcaption>` element which provides a text decription
 
 *** 
 
+[cheat sheat](https://cheatography.com/programming/)
+***
+
 **block-level elements**
 
 - **CSS**
@@ -513,3 +516,6 @@ To approach writing a script, break down your goal into a series of tasks and th
 [HomePage](https://wafaankoush99.github.io/Reading-Notes/READMEcode201.html)  
 
 
+ [refrences](https://ltuc-asac.slack.com/files/U0137RDA32L/F01MH38B21Z/html_css.pdf)
+
+*contact wafadirawe@gmail.com*

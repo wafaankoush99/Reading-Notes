@@ -10,7 +10,7 @@
 *Tags act like containers. They tell you something about the information that lies between their opening and closing tags.*
 
 
-<img src=" https://cdo-curriculum.s3.amazonaws.com/media/uploads/html_element.png " width="200" height = "60" />
+<img src=" https://cdo-curriculum.s3.amazonaws.com/media/uploads/html_element.png " width="400" height = "200" />
 
 
 ***
@@ -20,7 +20,7 @@
 provide additional information about the contents of an element.
 
 
-<img src = "https://th.bing.com/th/id/R2e5401eea6ffb00fc777c942f5cbfd66?rik=p7mpsZOiT6AehA&riu=http%3a%2f%2fweb.simmons.edu%2f%7egrabiner%2fcomm244%2fweekone%2fhtml-attributes.jpg&ehk=7peIl%2bSNWnzzcNR0Cp4qC%2fduTFu7%2bckpgt433DPOaFs%3d&risl=&pid=ImgRaw" width="200" height="60">
+<img src = "https://th.bing.com/th/id/R2e5401eea6ffb00fc777c942f5cbfd66?rik=p7mpsZOiT6AehA&riu=http%3a%2f%2fweb.simmons.edu%2f%7egrabiner%2fcomm244%2fweekone%2fhtml-attributes.jpg&ehk=7peIl%2bSNWnzzcNR0Cp4qC%2fduTFu7%2bckpgt433DPOaFs%3d&risl=&pid=ImgRaw" width="400" height="200">
 
 
 - *Attribute name* indicates what kind of extra information you're supplying about the elemen's content.
@@ -37,7 +37,7 @@ provide additional information about the contents of an element.
 1. *Body* Everything inside this element is shown inside the main browser window.
 
 
-<img src = "https://image.slidesharecdn.com/htmllesson1-150222202359-conversion-gate01/95/html-lesson-1-5-638.jpg?cb=1424636743" width="150" height="150"> <img src = "23.png" width="150" height="150"/>
+<img src = "https://image.slidesharecdn.com/htmllesson1-150222202359-conversion-gate01/95/html-lesson-1-5-638.jpg?cb=1424636743" width="300" height="300"> <img src = "23.png" width="300" height="300"/>
 
 
 ***
@@ -48,7 +48,7 @@ provide additional information about the contents of an element.
 Click on the right of the mouse and select View Page Source,You should see a new window appear, and it will contain the source code that was used to create this page.
 
 
-<img src = "https://thumbs.dreamstime.com/z/html-web-page-code-front-view-source-document-title-metadata-description-links-monitor-screenshot-31737056.jpg" width = "200">
+<img src = "https://thumbs.dreamstime.com/z/html-web-page-code-front-view-source-document-title-metadata-description-links-monitor-screenshot-31737056.jpg" width = "300" height ="300">
 
 
 ***

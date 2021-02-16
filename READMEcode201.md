@@ -4,6 +4,7 @@
 
 1. read01 : [Introductory HTML and JavaScript](class-01/class-01.md)
 2. read02 : [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-01/class-02/class-02.md)
+3. read03 : [HTML Lists, Control Flow with JS, and the CSS Box Model](class-03/class-03.md)
 
 
 

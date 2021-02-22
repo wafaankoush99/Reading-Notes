@@ -9,6 +9,7 @@
 5. read05 : [HTML Images; CSS Color & Text](class-05/class-05.md)
 6. read06 : [Problem Domain, Objects, and the DOM
 ](class-06/class-06.md)
+7. read07 : [Domain Modeling & HTML tables & JS Function](class-07/class-07.md)
 
 
 ***

@@ -12,6 +12,7 @@
 7. read07 : [Domain Modeling & HTML tables & JS Function](class-07/class-07.md)
 8. read08 : [Layout](class-08/class-08.md)
 9. read09 : [Forms and Events](class-09/class-09.md)
+10. read10 : [EROR HANDLING & DEBUGGING](class-10/class-10.md)
 
 
 ***

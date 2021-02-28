@@ -13,6 +13,7 @@
 8. read08 : [Layout](class-08/class-08.md)
 9. read09 : [Forms and Events](class-09/class-09.md)
 10. read10 : [EROR HANDLING & DEBUGGING](class-10/class-10.md)
+11. read11 : [Assorted Topics](class-11/class-11.md)
 
 
 ***

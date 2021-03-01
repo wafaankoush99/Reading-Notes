@@ -15,6 +15,9 @@
 10. read10 : [EROR HANDLING & DEBUGGING](class-10/class-10.md)
 11. read11 : [Assorted Topics](class-11/class-11.md)
 12. read12 :[Docs for the HTML <canvas> Element & Chart.js](class-12/class-12.md)
+13. read13 : [Local Storage](class-13/class-13.md)
+
+
 
 ***
 

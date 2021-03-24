@@ -1,5 +1,5 @@
 
-![](https://i.pinimg.com/564x/af/d2/4b/afd24b9b5d3ba156f710a38388569264.jpg)
+![](https://i.pinimg.com/originals/85/ab/25/85ab25de8b6f24575d3d65c0540176f1.gif)
 
 # LTUC | ASAC
 

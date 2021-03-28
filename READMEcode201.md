@@ -1,4 +1,3 @@
-![](https://i.pinimg.com/564x/9e/1c/dd/9e1cddd36cf4c13f0888b8dcb621ca31.jpg)
 
 # CODE201
 
